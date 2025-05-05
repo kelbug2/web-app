@@ -1,7 +1,3 @@
-# web-app
-dating app for da goth girlz
-
-
 # Secure Dating Web Application
 
 This is a Django-based web application demonstrating a basic dating platform with user registration, profiles, matching, and chat features, built with security best practices in mind.
